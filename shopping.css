@@ -1,0 +1,52 @@
+/* Shopping Website */
+body{
+	background-color: black;
+	color: white;
+}
+nav{
+  
+}
+nav ul{
+  display: inline-block;
+  list-style-type: none;
+}
+nav li{
+	
+}
+header{
+	text-align: center;
+}
+#table{
+
+}
+table{
+    width:300px;
+    height:300px;
+    background-color:#d9d9d9;
+    position:fixed;
+    margin-left:-150px;/* half of width */
+    margin-top:-150px; /* half of height */
+    top:50%;
+    left:50%;
+	text-align: center;
+	background-color: black;
+}
+tr{
+	
+}
+th{
+	background-color: grey;
+	/*padding: 1em;*/
+}
+td{
+	/*padding:0.5em;*/
+}
+.item{
+	color: yellow;
+}
+.price{
+	color: grey;
+}
+.image{
+	
+}
