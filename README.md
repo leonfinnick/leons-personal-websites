@@ -1,2 +1,2 @@
-# test-shopping-page
-A personal website project just to test myself
+# leons-personal-websites
+A collection of websites ive made either for class or personal experience.
